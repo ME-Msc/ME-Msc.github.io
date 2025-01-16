@@ -16,13 +16,13 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am currently a master student in Center for Interdisciplinary Research (前沿交叉中心), State Key Laboratory for Novel Software Technology (计算机软件新技术国家重点实验室), Nanjing University (南京大学), focusing on multi-agent systems and multi-LLM agents. I am expected to graduate in June 2025, advised by Liang Wang (汪亮) and Xianping Tao (陶先平).
+I am currently a master student in [Center for Interdisciplinary Research in Computer Science(前沿交叉中心 CIC)](https://ics.nju.edu.cn/), [State Key Laboratory for Novel Software Technology (计算机软件新技术国家重点实验室 ICS)](https://keysoftlab.nju.edu.cn/main.htm), [Nanjing University (南京大学 NJU)](https://www.nju.edu.cn/), focusing on multi-agent systems and multi-LLM agents. I am expected to graduate in June 2025, advised by [Liang Wang (汪亮)](https://cs.nju.edu.cn/wangliang/) and [Xianping Tao (陶先平)](https://ics.nju.edu.cn/people/xianpingtao/index.html).
 
 My research interest includes multi-agent systems, AI-enhanced control systems and mulit-LLM-Agent system. My research experience includes developing UAV swarm task description languages with embedded AI policies and constructing simulation environments for UAV swarms using Unreal Engine and AirSim. I also have extensive experience in developing multi-LLM agent systems, utilizing frameworks such as **CrewAI**, **AutoGen**, **LangGraph**, and **PydanticAI**. I have also participated in the "Technology Innovation 2030 – Next Generation Artificial Intelligence" national project and several other significant initiatives. 
 
 I am also passionate about educational initiatives, having participated in graduate voluntary teaching programs in underprivileged areas and contributed to education equity. 
 
-If you are seeking any form of academic cooperation, please feel free to email me at [me-msc@foxmail.com]. I’m always open to new opportunities and collaborations!
+If you are seeking any form of academic cooperation, please feel free to email me at [me-msc@foxmail.com](me-msc@foxmail.com). I'm always open to new opportunities and collaborations!
 
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
