@@ -16,18 +16,27 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+I am currently a master student in Center for Interdisciplinary Research (前沿交叉中心), State Key Laboratory for Novel Software Technology (计算机软件新技术国家重点实验室), Nanjing University (南京大学), focusing on multi-agent systems and multi-LLM agents. I am expected to graduate in June 2025, advised by Liang Wang (汪亮) and Xianping Tao (陶先平).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+My research interest includes multi-agent systems, AI-enhanced control systems and mulit-LLM-Agent system. My research experience includes developing UAV swarm task description languages with embedded AI policies and constructing simulation environments for UAV swarms using Unreal Engine and AirSim. I also have extensive experience in developing multi-LLM agent systems, utilizing frameworks such as **CrewAI**, **AutoGen**, **LangGraph**, and **PydanticAI**. I have also participated in the "Technology Innovation 2030 – Next Generation Artificial Intelligence" national project and several other significant initiatives. 
 
+I am also passionate about educational initiatives, having participated in graduate voluntary teaching programs in underprivileged areas and contributed to education equity. 
+
+If you are seeking any form of academic cooperation, please feel free to email me at [me-msc@foxmail.com]. I’m always open to new opportunities and collaborations!
+
+<!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+-->
 
-
+<!--
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+-->
 
 # 📝 Publications 
 
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -39,20 +48,32 @@ My research interest includes neural machine translation and computer vision. I 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
+-->
 
+<!--
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+-->
+- [SwarmL: UAV swarm task description language with AI policies enhancement](https://www.authorea.com/users/858175/articles/1241833-swarml-uav-swarm-task-description-language-with-ai-policies-enhancement), currently under review, [codebase](https://github.com/ME-Msc/SwarmL-Interpreter), CCF-B **Software: Practice and Experience Journal**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2018.12* People's Scholarship
+- *2019.12* People's Scholarship
+- *2019.12* KPMG Ideation Challenge (**Top 3** in China)
+- *2019.12* Outstanding Student Leader of Jiangsu Province (**10 students each year** in NJU)
+- *2021.05* Zheng Gang Elite Scholarship (**Top 1%**)
+- *2021.05* Yang Lanyun Leadership Scholarship (**Top 1%**)
+- *2021.07* Rural Education Support Award (**Bronze Medal**)
+- *2022.07* Outstanding Graduate Student Volunteer of Guizhou Province
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - 2025.06 (now)*, Master, Nanjing University, Nanjing, China. 
+- *2017.09 - 2021.06*, Bachelor, Nanjing University, Nanjing, China. 
 
+<!--
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+-->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2021.07 - 2022.07*, Graduate Voluntary Teaching Program, Anshun, Guizhou, China.
