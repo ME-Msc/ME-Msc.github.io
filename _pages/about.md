@@ -88,7 +88,7 @@ My research interest includes neural machine translation and computer vision. I 
       <div class="badge">
         Graduation Speech
       </div>
-      <img src='images/Graduation Speech 500x300.jpg' alt="Graduation Speech" width="100%">
+      <img src='images/Graduation Speech 500x300.jpg' alt="sym" width="100%">
     </div>
   </div>
 
@@ -97,8 +97,6 @@ My research interest includes neural machine translation and computer vision. I 
 _2021.06_ Graduation Speech as the Representative of Graduates, **Nanjing University**
 - Delivered a speech representing the graduating class of 2021, sharing insights and aspirations.
 
-  </div>
-</div>
 
 <!--
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
