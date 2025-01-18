@@ -89,7 +89,6 @@ My research interest includes neural machine translation and computer vision. I 
         Graduation Speech
       </div>
       <img src='images/Graduation Speech 500x300.jpg' alt="Graduation Speech" width="100%">
-      </img>
     </div>
   </div>
 
