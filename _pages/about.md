@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Welcome to My Academic Blog"
 excerpt: "Research in multi-agent systems, AI-enhanced control systems, and multi-LLM agents."
 author_profile: true
 redirect_from:
@@ -75,9 +75,7 @@ My research interest includes neural machine translation and computer vision. I 
 # 💬 Invited Talks
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Graduation Speech</div><img src='images/Graduation Speech 500x300.jpg' alt="sym" width="100%"></div></div>
-
 <div class='paper-box-text' markdown="1">
-
 _2021.06_ Graduation Speech as the Representative of Graduates, **Nanjing University**
 
 - Delivered a speech representing the graduating class of 2021, sharing insights and aspirations.
